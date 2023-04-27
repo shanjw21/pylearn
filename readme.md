@@ -1,0 +1,1 @@
+this repository record my learning on leetcode in python 
